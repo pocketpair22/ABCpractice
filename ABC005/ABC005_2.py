@@ -3,4 +3,3 @@ T = []
 for i in range(N):
     T.append(int(input()))
 print(min(T))
-    
